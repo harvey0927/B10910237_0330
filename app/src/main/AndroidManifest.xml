@@ -13,6 +13,9 @@
             android:name=".p3"
             android:exported="false" />
         <activity
+            android:name=".P2"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
